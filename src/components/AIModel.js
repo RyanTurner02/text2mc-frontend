@@ -17,7 +17,7 @@ export default function AIModel() {
         builds that are similar to each other in meaning, like how blocks in
         Block2Vec can be related to each other semantically. An example would be
         houses in our dataset being related to each other to help generate a new
-        house or castles being related to each other to generate a new casle.
+        house or castles being related to each other to generate a new castle.
       </p>
       <Container>
         <Row>
